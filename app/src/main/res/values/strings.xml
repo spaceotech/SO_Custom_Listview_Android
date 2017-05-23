@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadMoreButtonDemo</string>
+    <string name="btnLoadMore">Load More</string>
+</resources>
